@@ -60,3 +60,9 @@ Key tools used include:
    ```bash
    git clone https://github.com/YOUR-USERNAME/fruit-veg-recognition.git
    cd fruit-veg-recognition
+
+---
+
+## 🔗 Download Models
+- [VGG16 Classification Model (fruits_recognition_model.h5)](https://drive.google.com/file/d/1XUSZerI9khDk7MjlfWI6rJrX3VOYJrvb/view?usp=drive_link)  
+- [YOLOv8 Detection Model (yolov8m.pt)](https://drive.google.com/file/d/11l-Nxf0oL_GLUx0UpNe-72myhsNfeJH9/view?usp=drive_link)  
