@@ -58,7 +58,7 @@ Key tools used include:
 ## 📌 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/fruit-veg-recognition.git
+   git clone https://github.com/Shahd-Elshafei/fruit-veg-recognition.git
    cd fruit-veg-recognition
 
 ---
